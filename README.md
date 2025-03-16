@@ -28,7 +28,6 @@ UI: Jetpack Compose
 
 Зависимости: Hilt (для внедрения зависимостей)
 
-Логирование: Timber
 
 Сборка: Gradle
 
